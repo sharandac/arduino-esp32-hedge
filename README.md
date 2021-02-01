@@ -1,3 +1,9 @@
+# Arduino core with some extra things
+
+- enabled PM/DFS with IDLE Task support
+- reduce Wifi TX/RX Buffer for more internal RAM
+- enhance flash/psram speed like 80Mhz
+
 # Arduino core for the ESP32
 [![Build Status](https://travis-ci.org/espressif/arduino-esp32.svg?branch=master)](https://travis-ci.org/espressif/arduino-esp32) ![](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg)
 
